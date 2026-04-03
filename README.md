@@ -4,21 +4,21 @@ I have intensively worked on mobility analytics. I focus on translating large-sc
 
 ## Core Competencies and Tools: 
 
-- Transportation Systems Modeling
-- Statistical Analysis: R
-- Predictive Modeling: R and Python
-- Driver behavior modeling (modeling navigation patterns of vehicles/ Trajectory planning/ Motion planning)
-- Urban Mobility Analytics
-- Geospatial Analytics::
-- Decision-Support Frameworks
+- **Transportation Systems Modeling**
+- **Statistical Analysis**:: R, Python, SPSS
+- **Predictive Modeling**:: R and Python
+- **Driver behavior modeling** (modeling navigation patterns of vehicles/ Trajectory planning/ Motion planning):: MATLAB, Python, R, 
+- **Urban Mobility Analytics** :: R, Python
+- **Geospatial Analytics**:: R and Python
+- **Decision-Support Frameworks** :: R and Python
 
 
 ## Tools and Tech: 
-- Python: pandas, numpy, geopandas, osmnx, and scikit-learn for analytics and automation. Matplotlib and seaborn for visualization.
-- R: ggplot2 (and a lot of its sub-libraries),dplyr, and sf for analytics and visualization.
-- MATLAB: Analytics, Modeling, and Visualization. 
-- Modeling: Statistical Modeling, Machine Learning, Traffic flow modeling, Network Modeling
-- Geospatial Analytics: QGIS, GeoPandas, and OpenStreetMap-
+- **Python:** pandas, numpy, geopandas, osmnx, and scikit-learn for analytics and automation. Matplotlib and seaborn for visualization.
+- **R:** ggplot2 (and a lot of its sub-libraries),dplyr, and sf for analytics and visualization.
+- **MATLAB:** Analytics, Modeling, and Visualization. 
+- **Modeling:** Statistical Modeling, Machine Learning, Traffic flow modeling, Network Modeling
+- **Geospatial Analytics:** QGIS, GeoPandas, and OpenStreetMap-
 
 ## About me: 
 - I like building things. Trailblazer, Tenacious, and the one on whom you can depend. 
