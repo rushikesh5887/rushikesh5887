@@ -4,7 +4,7 @@
 <p align="center">
   <a href="#who"> About Me </a> •
   <a href="#core"> My Core Competencies </a> •
-  <a href="#tools"> Tools and Tech I use </a> •
+  <a href="#tools"> Tools and Tech I use </a> 
 </p>
 
 <a id = 'who'></a>
