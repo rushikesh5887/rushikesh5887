@@ -2,8 +2,8 @@
 
 ## Hi, I am Rushikesh. 
 <p align="center">
-  <a href="#who"> Who am I </a> •
-  <a href="#core"> My core competencies </a> •
+  <a href="#who"> About Me </a> •
+  <a href="#core"> My Core Competencies </a> •
   <a href="#tools"> Tools and Tech I use </a> •
 </p>
 
@@ -16,7 +16,7 @@
 ## Core Competencies: 
 Throughout my career, I have worked on several interdisciplinary projects, which have helped me develop the following core competencies:
 
->-  **Transportation Systems Modeling**:  `Trajectory Prediction`,` Urban Mobility Analytics`, `Driver Behavior Modeling`
+>-  **Transportation Systems Modeling**:  `Trajectory Prediction`,` Urban Mobility Analytics`, `Driver Behavior Modeling`, `Traffic flow modeling`
 >-  **Geospatial Analytics**
 >-  **Statistical Analysis and Modeling** 
 >-  **Machine Learning and Predictive Modeling**
@@ -24,12 +24,11 @@ Throughout my career, I have worked on several interdisciplinary projects, which
 
 <a id = 'tools'></a>
 ## Tools and Tech: 
-- **Python:** pandas, numpy, geopandas, osmnx, and scikit-learn for analytics and automation. Matplotlib and seaborn for visualization.
-- **R:** ggplot2 (and a lot of its sub-libraries),dplyr, and sf for analytics and visualization.
-- **MATLAB:** Analytics, Modeling, and Visualization. 
-- **Modeling:** Statistical Modeling, Machine Learning, Traffic flow modeling, Network Modeling
-- **Geospatial Analytics:** QGIS, GeoPandas, and OpenStreetMap-
 
-## About me: 
-- I like building things. Trailblazer, Tenacious, and the one on whom you can depend. 
+- **Python:** `pandas`, `numpy`, `GeoPandas`, `osmnx`, `scikit-learn`, `streamlit`, `Matplotlib`, and `seaborn`.
+- **R:** `ggplot2`, `dplyr`, `tidyr`, and a lot of other libraries.
+- **Geospatial Analytics:** `QGIS`, `GeoPandas`, and `OpenStreetMap`
+- **MATLAB:** Analytics, Modeling, and Visualization. 
+- **Core Transportation Related:** `VISSIM`, `SUMO`, `AutoCad`
+
   
