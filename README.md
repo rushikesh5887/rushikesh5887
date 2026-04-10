@@ -1,10 +1,23 @@
-## Hi there 👋
-I am Rushikesh, a data scientist and researcher based in Germany.
-I have intensively worked on mobility analytics. I focus on translating large-scale mobility data into practical insights for policy, planning, and operations.
+##
 
-## Core Competencies and Tools: 
+## Hi, I am Rushikesh. 
+<p align="center">
+  <a href="#who"> Who am I </a> •
+  <a href="#core"> My core competencies </a> •
+  <a href="#tools"> Tools and Tech I use </a> •
+</p>
 
-- **Transportation Systems Modeling**
+<a id = 'who'></a>
+> Hi! I’m Rushikesh, a data scientist and researcher in Germany, focused on mobility analytics. I enjoy turning large datasets into insights that shape policy, planning, and operations. Besides the language of data science, I speak English and German. 
+  > Previously, I worked as a postdoctoral researcher at TU Dresden and completed my Ph.D. at the Indian Institute of Technology Madras.
+  > I love to travel and explore different cultures.
+
+<a id = 'core'></a>
+
+## Core Competencies: 
+Throughout my career, I have worked on several interdisciplinary projects, which have helped me develop the following core competencies:
+
+- **Transportation Systems Modeling**:  `Trajectory Prediction`,` Urban Mobility Analytics`, `Driver Behavior Modeling`
 - **Statistical Analysis**:: R, Python, SPSS
 - **Predictive Modeling**:: R and Python
 - **Driver behavior modeling** (modeling navigation patterns of vehicles/ Trajectory planning/ Motion planning):: MATLAB, Python, R, 
@@ -12,7 +25,7 @@ I have intensively worked on mobility analytics. I focus on translating large-sc
 - **Geospatial Analytics**:: R and Python
 - **Decision-Support Frameworks** :: R and Python
 
-
+ <a href="#tools"> Tools and Tech I use </a> •
 ## Tools and Tech: 
 - **Python:** pandas, numpy, geopandas, osmnx, and scikit-learn for analytics and automation. Matplotlib and seaborn for visualization.
 - **R:** ggplot2 (and a lot of its sub-libraries),dplyr, and sf for analytics and visualization.
