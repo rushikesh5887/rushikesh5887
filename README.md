@@ -20,15 +20,16 @@ Throughout my career, I have worked on several interdisciplinary projects, which
 >-  **Geospatial Analytics**
 >-  **Statistical Analysis and Modeling** 
 >-  **Machine Learning and Predictive Modeling**
+>-  **Visualization of Complex Databases**
 >-  **Computation and Simulation**
 
 <a id = 'tools'></a>
 ## Tools and Tech: 
 
-- **Python:** `pandas`, `numpy`, `GeoPandas`, `osmnx`, `scikit-learn`, `streamlit`, `Matplotlib`, and a lot of other libraries.
-- **R:** `ggplot2`, `dplyr`, `tidyr`, and a lot of other libraries.
-- **Geospatial Analytics:** `QGIS`, `GeoPandas`, and `OpenStreetMap`
-- **MATLAB:** Analytics, Modeling, and Visualization. 
-- **Core Transportation Related:** `VISSIM`, `SUMO`, `AutoCad`
+>- **Python:** `pandas`, `numpy`, `GeoPandas`, `osmnx`, `scikit-learn`, `streamlit`, `Matplotlib`, and a lot of other libraries.
+>- **R:** `ggplot2`, `dplyr`, `tidyr`, and a lot of other libraries.
+>- **Geospatial Analytics:** `QGIS`, `GeoPandas`, and `OpenStreetMap`
+>- **MATLAB:** Analytics, Modeling, and Visualization. 
+>- **Core Transportation Related:** `VISSIM`, `SUMO`, `AutoCad`
 
   
