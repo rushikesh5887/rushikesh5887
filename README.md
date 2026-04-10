@@ -13,19 +13,16 @@
   > I love to travel and explore different cultures.
 
 <a id = 'core'></a>
-
 ## Core Competencies: 
 Throughout my career, I have worked on several interdisciplinary projects, which have helped me develop the following core competencies:
 
-- **Transportation Systems Modeling**:  `Trajectory Prediction`,` Urban Mobility Analytics`, `Driver Behavior Modeling`
-- **Statistical Analysis**:: R, Python, SPSS
-- **Predictive Modeling**:: R and Python
-- **Driver behavior modeling** (modeling navigation patterns of vehicles/ Trajectory planning/ Motion planning):: MATLAB, Python, R, 
-- **Urban Mobility Analytics** :: R, Python
-- **Geospatial Analytics**:: R and Python
-- **Decision-Support Frameworks** :: R and Python
+>-  **Transportation Systems Modeling**:  `Trajectory Prediction`,` Urban Mobility Analytics`, `Driver Behavior Modeling`
+>-  **Geospatial Analytics**
+>-  **Statistical Analysis and Modeling** 
+>-  **Machine Learning and Predictive Modeling**
+>-  **Computation and Simulation**
 
- <a href="#tools"> Tools and Tech I use </a> •
+<a id = 'tools'></a>
 ## Tools and Tech: 
 - **Python:** pandas, numpy, geopandas, osmnx, and scikit-learn for analytics and automation. Matplotlib and seaborn for visualization.
 - **R:** ggplot2 (and a lot of its sub-libraries),dplyr, and sf for analytics and visualization.
