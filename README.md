@@ -16,7 +16,7 @@
 ## Core Competencies: 
 Throughout my career, I have worked on several interdisciplinary projects, which have helped me develop the following core competencies:
 
->-  **Transportation Systems Modeling**:  `Trajectory Prediction`,` Urban Mobility Analytics`, `Driver Behavior Modeling`, `Traffic flow modeling`
+>-  **Transportation Systems Modeling**:  `Trajectory Prediction`,` Urban Mobility Analytics`, `Driver Behavior Modeling`
 >-  **Geospatial Analytics**
 >-  **Statistical Analysis and Modeling** 
 >-  **Machine Learning and Predictive Modeling**
@@ -25,7 +25,7 @@ Throughout my career, I have worked on several interdisciplinary projects, which
 <a id = 'tools'></a>
 ## Tools and Tech: 
 
-- **Python:** `pandas`, `numpy`, `GeoPandas`, `osmnx`, `scikit-learn`, `streamlit`, `Matplotlib`, and `seaborn`.
+- **Python:** `pandas`, `numpy`, `GeoPandas`, `osmnx`, `scikit-learn`, `streamlit`, `Matplotlib`, and a lot of other libraries.
 - **R:** `ggplot2`, `dplyr`, `tidyr`, and a lot of other libraries.
 - **Geospatial Analytics:** `QGIS`, `GeoPandas`, and `OpenStreetMap`
 - **MATLAB:** Analytics, Modeling, and Visualization. 
